@@ -1,0 +1,6 @@
+{
+  "name": "YAS SPIN - Roue de la Fortune",
+  "description": "Roue de la fortune interactive et tirage au sort YAS SPIN avec physique fluide, effets sonores réalistes, personnalisation complète des segments et cadeaux à gagner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
